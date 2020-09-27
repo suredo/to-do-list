@@ -1,5 +1,5 @@
 # to-do-list
-Criado com (Nodejs + express + react + typescript)
+Criado com (Nodejs + express + mongoose + mongodb(atlas) + react + typescript)
 
 ## Scripts
 ```
